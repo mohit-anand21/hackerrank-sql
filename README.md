@@ -1,2 +1,2 @@
 # hackerrank
-Solution from hackerrank
+Solutions for hackerrank sql problems
